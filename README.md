@@ -4,7 +4,17 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome&textBg=false&fontAlignY=30&fontAlign=50&animation=fadeIn&desc=I%20am%20Han-GR&descSize=35&fontSize=89" alt="Welcome" title="Welcome"/>
 </p>
 
-## 📕 Latest Blog Posts
+<p align="center">
+    <!--开源地址：https://github.com/DenverCoder1/readme-typing-svg -->
+    <!--生成网站：https://readme-typing-svg.demolab.com/demo/-->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=6000&pause=2000&center=true&vCenter=true&width=435&lines=The+best+preparation+for+tomorrow+is+doing+your+best+today.;%E5%AF%B9%E6%98%8E%E5%A4%A9%E5%81%9A%E5%A5%BD%E7%9A%84%E5%87%86%E5%A4%87%E5%B0%B1%E6%98%AF%E4%BB%8A%E5%A4%A9%E5%81%9A%E5%88%B0%E6%9C%80%E5%A5%BD!" alt="Hello World" title="Hello World" />
+</p>
+
+---
+
+## **博客 : [Han-GR](https://han-gr.github.io/)**
+
+### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
 - [picazza网站更新](https://han-gr.github.io//posts/2025/07/17/picazza%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0.html)
@@ -14,11 +24,20 @@
 - [knife4j不能上传文件的解决方案](https://han-gr.github.io//posts/2024/12/17/knife4j%E4%B8%8D%E8%83%BD%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-    <!--开源地址：https://github.com/DenverCoder1/readme-typing-svg -->
-    <!--生成网站：https://readme-typing-svg.demolab.com/demo/-->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=6000&pause=2000&center=true&vCenter=true&width=435&lines=The+best+preparation+for+tomorrow+is+doing+your+best+today.;%E5%AF%B9%E6%98%8E%E5%A4%A9%E5%81%9A%E5%A5%BD%E7%9A%84%E5%87%86%E5%A4%87%E5%B0%B1%E6%98%AF%E4%BB%8A%E5%A4%A9%E5%81%9A%E5%88%B0%E6%9C%80%E5%A5%BD!" alt="Hello World" title="Hello World" />
-</p>
+---
+## 作品
+
+### 🌐 网站
+- **[Picazza](https://picazza.cn)** : 一个致力于分享和发现美好瞬间的图片分享平台.
+
+### 🧩 浏览器插件合集-[Browser-Extensions](https://github.com/Han-GR/Browser-Extensions)
+
+- **[Auto Tab Grouper](https://github.com/Han-GR/Browser-Extensions/tree/master/Auto%20Tab%20Grouper)** : 自动化管理浏览器标签页, 自动分组, 让浏览器更加整洁.
+
+
+- **[Tab Eraser](https://github.com/Han-GR/Browser-Extensions/tree/master/Tab%20Eraser)** : 关闭标签页时，插件会自动删除该标签页访问过的所有浏览历史记录.
+
+---
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -27,6 +46,13 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=Han-GR&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Han-GR&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2012%20mins-blue)
@@ -114,10 +140,7 @@ Swift                    1 repo              ███░░░░░░░░�
  Last Updated on 23/07/2025 09:28:01 UTC
 <!--END_SECTION:waka-->
 
-<p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Han-GR&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</p>
+---
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
