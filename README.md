@@ -18,6 +18,9 @@
     <img width="400" src="https://streak-stats.demolab.com?user=Han-GR&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Han-GR&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
