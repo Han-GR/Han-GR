@@ -4,6 +4,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome&textBg=false&fontAlignY=30&fontAlign=50&animation=fadeIn&desc=I%20am%20Han-GR&descSize=35&fontSize=89" alt="Welcome" title="Welcome"/>
 </p>
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
     <!--开源地址：https://github.com/DenverCoder1/readme-typing-svg -->
     <!--生成网站：https://readme-typing-svg.demolab.com/demo/-->
