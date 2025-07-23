@@ -1,11 +1,9 @@
-name: Blog Posts
-
+name: Latest blog post workflow
 on:
-  # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    - cron: '* 2 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -14,5 +12,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # comma-separated list of RSS feed urls
+          # 我的博客 RSS 链接
           feed_list: "https://han-gr.github.io/static/xml/rss.xml"
+          # 获取最新 5 篇文章
+          max_post_count: 5
+
