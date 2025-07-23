@@ -7,6 +7,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [picazza网站更新](https://han-gr.github.io//posts/2025/07/17/picazza%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0.html)
+- [picazza网站上线](https://han-gr.github.io//posts/2025/02/09/picazza%E7%BD%91%E7%AB%99%E4%B8%8A%E7%BA%BF.html)
+- [docker相关问题](https://han-gr.github.io//posts/2025/01/15/docker%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.html)
+- [ant-design-vue组件设置中文](https://han-gr.github.io//posts/2024/12/30/ant-design-vue%E7%BB%84%E4%BB%B6%E8%AE%BE%E7%BD%AE%E4%B8%AD%E6%96%87.html)
+- [knife4j不能上传文件的解决方案](https://han-gr.github.io//posts/2024/12/17/knife4j%E4%B8%8D%E8%83%BD%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
