@@ -58,6 +58,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -99,22 +101,16 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 45 mins             ██████████████████████░░░   86.00 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Han-GR.github.io         26 mins             ████████████░░░░░░░░░░░░░   49.28 % 
-Browser-Extensions       16 mins             ████████░░░░░░░░░░░░░░░░░   31.83 % 
-Han-GR                   10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +130,7 @@ Swift                    1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 03:00:22 UTC
+ Last Updated on 01/08/2025 03:11:21 UTC
 <!--END_SECTION:waka-->
 
 ---
