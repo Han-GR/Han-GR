@@ -29,7 +29,7 @@
 ## 作品
 
 ### 🌐 网站
-- **[Picazza](https://picazza.cn)** : 一个致力于分享和发现美好瞬间的图片分享平台.
+- **[Picazza](https://picazza.com)** : 一个致力于分享和发现美好瞬间的图片分享平台.
 
 <br>
 
