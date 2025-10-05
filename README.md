@@ -58,7 +58,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -101,16 +101,25 @@ Sunday                   121 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Swift                    5 mins              ███████████████░░░░░░░░░░   58.49 % 
+Python                   3 mins              ██████████░░░░░░░░░░░░░░░   41.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     5 mins              ███████████████░░░░░░░░░░   58.69 % 
+PyCharm                  3 mins              ██████████░░░░░░░░░░░░░░░   41.24 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TickTock                 5 mins              ███████████████░░░░░░░░░░   58.69 % 
+Picazza-scripts          3 mins              ██████████░░░░░░░░░░░░░░░   40.94 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+picazza_backend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -130,7 +139,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 02:14:26 UTC
+ Last Updated on 05/10/2025 02:28:57 UTC
 <!--END_SECTION:waka-->
 
 ---
