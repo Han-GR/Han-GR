@@ -101,16 +101,19 @@ Sunday                   121 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               27 mins             ██████████████████░░░░░░░   72.26 % 
+Vue.js                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 35 mins             ███████████████████████░░   92.39 % 
+Trae                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+picazza_frontend         38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -130,7 +133,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 02:43:06 UTC
+ Last Updated on 10/11/2025 02:47:00 UTC
 <!--END_SECTION:waka-->
 
 ---
