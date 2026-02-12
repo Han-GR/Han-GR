@@ -101,18 +101,16 @@ Sunday                   116 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    53 mins             █████████████████████████   98.33 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Moments                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +130,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2026 03:46:18 UTC
+ Last Updated on 12/02/2026 03:41:50 UTC
 <!--END_SECTION:waka-->
 
 ---
