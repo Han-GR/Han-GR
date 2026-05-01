@@ -101,21 +101,16 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     1 hr 21 mins        ██████████████████░░░░░░░   71.92 % 
-Nginx configuration file 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ruisapp                  1 hr 42 mins        ███████████████████████░░   91.01 % 
-WanderFlow               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,7 +130,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 04:31:08 UTC
+ Last Updated on 01/05/2026 04:48:30 UTC
 <!--END_SECTION:waka-->
 
 ---
