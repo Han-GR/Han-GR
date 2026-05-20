@@ -58,7 +58,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -101,16 +101,20 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      40 mins             ██████████████████████░░░   87.96 % 
+TypeScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Dockerfile               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+picazza_frontend         46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +134,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 04:58:37 UTC
+ Last Updated on 20/05/2026 05:02:43 UTC
 <!--END_SECTION:waka-->
 
 ---
