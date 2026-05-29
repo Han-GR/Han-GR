@@ -58,8 +58,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2024%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -72,47 +70,8 @@
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                183 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-🌆 Daytime                433 commits         ███████████░░░░░░░░░░░░░░   43.08 % 
-🌃 Evening                385 commits         ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   196 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Wednesday                146 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Friday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Saturday                 151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Sunday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -130,7 +89,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 05:07:28 UTC
+ Last Updated on 29/05/2026 05:11:55 UTC
 <!--END_SECTION:waka-->
 
 ---
