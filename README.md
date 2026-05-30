@@ -58,11 +58,13 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 287.4 kB Used in GitHub's Storage 
+> 📦 288.1 kB Used in GitHub's Storage 
  > 
 > 🏆 116 Contributions in the Year 2026
  > 
@@ -70,16 +72,16 @@
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -89,7 +91,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 05:11:55 UTC
+ Last Updated on 30/05/2026 04:51:49 UTC
 <!--END_SECTION:waka-->
 
 ---
