@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # 我的博客 RSS 链接
-          feed_list: "https://han-gr.github.io/static/xml/rss.xml"
+          feed_list: "https://han-gr.github.io/index.xml"
           # 获取最新 5 篇文章
           max_post_count: 5
