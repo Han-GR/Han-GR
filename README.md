@@ -29,7 +29,8 @@
 ## 作品
 
 ### 🌐 网站
-- **[Picazza](https://picazza.com)** : 一个致力于分享和发现美好瞬间的图片分享平台.
+- **[Picazza](https://picazza.com)（已停运）** : 一个致力于分享和发现美好瞬间的图片分享平台.
+- **[RuiToolAi](https://ruitoolai.com)**: 独立设计并开发的全栈AI工具网站，涵盖认证、支付、CMS、AI 生成等功能。
 
 <br>
 
