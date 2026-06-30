@@ -17,11 +17,11 @@
 ### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
-- [picazza网站更新&lpar;二&rpar;](https://han-gr.github.io//posts/2025/11/14/picazza%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0(%E4%BA%8C).html)
-- [prometheus-普罗米修斯学习应用](https://han-gr.github.io//posts/2025/08/21/prometheus-%E6%99%AE%E7%BD%97%E7%B1%B3%E4%BF%AE%E6%96%AF%E5%AD%A6%E4%B9%A0%E5%BA%94%E7%94%A8.html)
-- [浏览器扩展插件开发&lpar;二&rpar;](https://han-gr.github.io//posts/2025/07/24/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91(%E4%BA%8C).html)
-- [picazza网站更新](https://han-gr.github.io//posts/2025/07/17/picazza%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0.html)
-- [picazza网站上线](https://han-gr.github.io//posts/2025/02/09/picazza%E7%BD%91%E7%AB%99%E4%B8%8A%E7%BA%BF.html)
+- [Vinext：用 Vite 替代 Next.js 构建](https://han-gr.github.io/p/2026-03-21-vinext%E7%94%A8-vite-%E6%9B%BF%E4%BB%A3-next.js-%E6%9E%84%E5%BB%BA/)
+- [Claude Code 安装指南](https://han-gr.github.io/p/2026-02-24-claude-code-%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97/)
+- [Claude Skill 使用指南](https://han-gr.github.io/p/2026-02-24-claude-skill-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
+- [在Obsidian中使用Claude Skill](https://han-gr.github.io/p/2026-02-24-%E5%9C%A8obsidian%E4%B8%AD%E4%BD%BF%E7%94%A8claude-skill/)
+- [服务器部署两个网站](https://han-gr.github.io/p/2026-01-20-%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2%E4%B8%A4%E4%B8%AA%E7%BD%91%E7%AB%99/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
