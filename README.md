@@ -61,15 +61,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 315.4 kB Used in GitHub's Storage 
+> 📦 315.6 kB Used in GitHub's Storage 
  > 
-> 🏆 192 Contributions in the Year 2026
+> 🏆 194 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,21 +80,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-🌆 Daytime                562 commits         ████████████░░░░░░░░░░░░░   46.07 % 
-🌃 Evening                450 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌞 Morning                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                566 commits         ████████████░░░░░░░░░░░░░   46.24 % 
+🌃 Evening                450 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Tuesday                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Thursday                 231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Monday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Tuesday                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 235 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 ```
 
 
@@ -104,20 +104,20 @@ Sunday                   148 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 4 mins        ██████████████░░░░░░░░░░░   57.45 % 
-TypeScript               2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Markdown                 4 hrs 28 mins       ██████████████░░░░░░░░░░░   55.81 % 
+TypeScript               3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.18 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Trae                     7 hrs 5 mins        █████████████████████████   100.00 % 
+Trae                     8 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ruitoolai                7 hrs 5 mins        █████████████████████████   100.00 % 
+ruitoolai                8 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +137,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 04:56:26 UTC
+ Last Updated on 03/07/2026 04:40:30 UTC
 <!--END_SECTION:waka-->
 
 ---
