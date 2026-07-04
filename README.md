@@ -61,13 +61,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 315.6 kB Used in GitHub's Storage 
+> 📦 315.7 kB Used in GitHub's Storage 
  > 
 > 🏆 194 Contributions in the Year 2026
  > 
@@ -104,20 +104,20 @@ Sunday                   148 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 28 mins       ██████████████░░░░░░░░░░░   55.81 % 
-TypeScript               3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.18 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+TypeScript               3 hrs 3 mins        ████████████████░░░░░░░░░   62.93 % 
+Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Trae                     8 hrs               █████████████████████████   100.00 % 
+Trae                     4 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ruitoolai                8 hrs               █████████████████████████   100.00 % 
+ruitoolai                4 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs               █████████████████████████   100.00 % 
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +137,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 04:40:30 UTC
+ Last Updated on 04/07/2026 04:33:44 UTC
 <!--END_SECTION:waka-->
 
 ---
