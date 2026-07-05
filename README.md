@@ -104,20 +104,20 @@ Sunday                   148 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ████████████████░░░░░░░░░   62.93 % 
-Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+TypeScript               3 hrs 3 mins        █████████████████░░░░░░░░   67.59 % 
+Markdown                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Trae                     4 hrs 51 mins       █████████████████████████   100.00 % 
+Trae                     4 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ruitoolai                4 hrs 51 mins       █████████████████████████   100.00 % 
+ruitoolai                4 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +137,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 04:33:44 UTC
+ Last Updated on 05/07/2026 04:54:47 UTC
 <!--END_SECTION:waka-->
 
 ---
