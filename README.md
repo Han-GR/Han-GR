@@ -61,7 +61,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,20 +104,20 @@ Sunday                   148 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        █████████████████░░░░░░░░   67.59 % 
-Markdown                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+TypeScript               3 hrs 6 mins        ████████████████░░░░░░░░░   65.32 % 
+Markdown                 1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Trae                     4 hrs 31 mins       █████████████████████████   100.00 % 
+Trae                     4 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ruitoolai                4 hrs 31 mins       █████████████████████████   100.00 % 
+ruitoolai                4 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +137,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 04:54:47 UTC
+ Last Updated on 06/07/2026 05:09:18 UTC
 <!--END_SECTION:waka-->
 
 ---
