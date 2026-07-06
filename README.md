@@ -17,11 +17,11 @@
 ### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [从零撸一个 AI 助手 DevAssist：用 FastAPI + DeepSeek 搭好骨架](https://han-gr.github.io/p/2026-07-06-%E4%BB%8E%E9%9B%B6%E6%92%B8%E4%B8%80%E4%B8%AA-ai-%E5%8A%A9%E6%89%8B-devassist%E7%94%A8-fastapi--deepseek-%E6%90%AD%E5%A5%BD%E9%AA%A8%E6%9E%B6/)
 - [在 Cloudflare Workers + D1 上实现用户邀请系统](https://han-gr.github.io/p/2026-07-02-%E5%9C%A8-cloudflare-workers--d1-%E4%B8%8A%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%88%B7%E9%82%80%E8%AF%B7%E7%B3%BB%E7%BB%9F/)
 - [Vinext：用 Vite 替代 Next.js 构建](https://han-gr.github.io/p/2026-03-21-vinext%E7%94%A8-vite-%E6%9B%BF%E4%BB%A3-next.js-%E6%9E%84%E5%BB%BA/)
 - [Claude Code 安装指南](https://han-gr.github.io/p/2026-02-24-claude-code-%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97/)
 - [Claude Skill 使用指南](https://han-gr.github.io/p/2026-02-24-claude-skill-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
-- [在Obsidian中使用Claude Skill](https://han-gr.github.io/p/2026-02-24-%E5%9C%A8obsidian%E4%B8%AD%E4%BD%BF%E7%94%A8claude-skill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
