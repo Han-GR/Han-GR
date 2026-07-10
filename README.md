@@ -17,11 +17,11 @@
 ### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [前端聊天 UI：Markdown 渲染、SSE 流式联调与交互打磨](https://han-gr.github.io/p/2026-07-10-%E5%89%8D%E7%AB%AF%E8%81%8A%E5%A4%A9-uimarkdown-%E6%B8%B2%E6%9F%93sse-%E6%B5%81%E5%BC%8F%E8%81%94%E8%B0%83%E4%B8%8E%E4%BA%A4%E4%BA%92%E6%89%93%E7%A3%A8/)
+- [DevAssist：从多轮对话到数据库持久化](https://han-gr.github.io/p/2026-07-09-devassist%E4%BB%8E%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D%E5%88%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8C%81%E4%B9%85%E5%8C%96/)
 - [RuiToolAI 新功能 Shorts Maker 开发笔记：浏览器端图片轮播视频工具](https://han-gr.github.io/p/2026-07-07-ruitoolai-%E6%96%B0%E5%8A%9F%E8%83%BD-shorts-maker-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AB%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD%E8%A7%86%E9%A2%91%E5%B7%A5%E5%85%B7/)
 - [从零撸一个 AI 助手 DevAssist：用 FastAPI + DeepSeek 搭好骨架](https://han-gr.github.io/p/2026-07-06-%E4%BB%8E%E9%9B%B6%E6%92%B8%E4%B8%80%E4%B8%AA-ai-%E5%8A%A9%E6%89%8B-devassist%E7%94%A8-fastapi--deepseek-%E6%90%AD%E5%A5%BD%E9%AA%A8%E6%9E%B6/)
 - [在 Cloudflare Workers + D1 上实现用户邀请系统](https://han-gr.github.io/p/2026-07-02-%E5%9C%A8-cloudflare-workers--d1-%E4%B8%8A%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%88%B7%E9%82%80%E8%AF%B7%E7%B3%BB%E7%BB%9F/)
-- [Vinext：用 Vite 替代 Next.js 构建](https://han-gr.github.io/p/2026-03-21-vinext%E7%94%A8-vite-%E6%9B%BF%E4%BB%A3-next.js-%E6%9E%84%E5%BB%BA/)
-- [Claude Code 安装指南](https://han-gr.github.io/p/2026-02-24-claude-code-%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
