@@ -67,9 +67,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 326.2 kB Used in GitHub's Storage 
+> 📦 326.6 kB Used in GitHub's Storage 
  > 
-> 🏆 216 Contributions in the Year 2026
+> 🏆 260 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,21 +80,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌆 Daytime                580 commits         ████████████░░░░░░░░░░░░░   46.59 % 
-🌃 Evening                465 commits         █████████░░░░░░░░░░░░░░░░   37.35 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+🌞 Morning                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+🌆 Daytime                601 commits         ████████████░░░░░░░░░░░░░   46.55 % 
+🌃 Evening                487 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   215 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Tuesday                  161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Thursday                 234 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Saturday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Monday                   215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Tuesday                  161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Thursday                 277 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Friday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Saturday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 
 
@@ -104,21 +104,21 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs               ██████████░░░░░░░░░░░░░░░   41.86 % 
-TypeScript               2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.07 % 
-Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Markdown                 3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
+TypeScript               2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Python                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Trae                     7 hrs 11 mins       █████████████████████████   100.00 % 
+Trae                     10 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ruitoolai                5 hrs 6 mins        ██████████████████░░░░░░░   70.88 % 
-DevAssist                2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+DevAssist                5 hrs 48 mins       ██████████████░░░░░░░░░░░   56.28 % 
+ruitoolai                4 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.72 % 
 
 💻 Operating System: 
-Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 04:56:06 UTC
+ Last Updated on 10/07/2026 04:49:24 UTC
 <!--END_SECTION:waka-->
 
 ---
