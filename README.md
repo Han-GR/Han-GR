@@ -104,21 +104,21 @@ Sunday                   148 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
-Python                   4 hrs               ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-TypeScript               2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Markdown                 5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
+Python                   5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
+TypeScript               2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-Trae                     14 hrs 33 mins      █████████████████████████   100.00 % 
+Trae                     16 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevAssist                10 hrs 7 mins       █████████████████░░░░░░░░   69.52 % 
-ruitoolai                4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
+DevAssist                12 hrs 33 mins      ███████████████████░░░░░░   74.53 % 
+ruitoolai                4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
 
 💻 Operating System: 
-Mac                      14 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 04:23:43 UTC
+ Last Updated on 13/07/2026 04:28:43 UTC
 <!--END_SECTION:waka-->
 
 ---
