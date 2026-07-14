@@ -17,11 +17,11 @@
 ### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
-- [前端聊天 UI：Markdown 渲染、SSE 流式联调与交互打磨](https://han-gr.github.io/p/2026-07-10-%E5%89%8D%E7%AB%AF%E8%81%8A%E5%A4%A9-uimarkdown-%E6%B8%B2%E6%9F%93sse-%E6%B5%81%E5%BC%8F%E8%81%94%E8%B0%83%E4%B8%8E%E4%BA%A4%E4%BA%92%E6%89%93%E7%A3%A8/)
+- [DevAssist Agent 系统：从工具调用到可观测性](https://han-gr.github.io/p/2026-07-14-devassist-agent-%E7%B3%BB%E7%BB%9F%E4%BB%8E%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E5%88%B0%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/)
+- [在终端中快捷切换代理](https://han-gr.github.io/p/2026-07-13-%E5%9C%A8%E7%BB%88%E7%AB%AF%E4%B8%AD%E5%BF%AB%E6%8D%B7%E5%88%87%E6%8D%A2%E4%BB%A3%E7%90%86/)
+- [DevAssist RAG（检索增强生成）从零到跑通](https://han-gr.github.io/p/2026-07-12-devassist-rag%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90%E4%BB%8E%E9%9B%B6%E5%88%B0%E8%B7%91%E9%80%9A/)
+- [DevAssist 前端聊天 UI：Markdown 渲染、SSE 流式联调与交互打磨](https://han-gr.github.io/p/2026-07-10-devassist-%E5%89%8D%E7%AB%AF%E8%81%8A%E5%A4%A9-uimarkdown-%E6%B8%B2%E6%9F%93sse-%E6%B5%81%E5%BC%8F%E8%81%94%E8%B0%83%E4%B8%8E%E4%BA%A4%E4%BA%92%E6%89%93%E7%A3%A8/)
 - [DevAssist：从多轮对话到数据库持久化](https://han-gr.github.io/p/2026-07-09-devassist%E4%BB%8E%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D%E5%88%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8C%81%E4%B9%85%E5%8C%96/)
-- [RuiToolAI 新功能 Shorts Maker 开发笔记：浏览器端图片轮播视频工具](https://han-gr.github.io/p/2026-07-07-ruitoolai-%E6%96%B0%E5%8A%9F%E8%83%BD-shorts-maker-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AB%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD%E8%A7%86%E9%A2%91%E5%B7%A5%E5%85%B7/)
-- [从零撸一个 AI 助手 DevAssist：用 FastAPI + DeepSeek 搭好骨架](https://han-gr.github.io/p/2026-07-06-%E4%BB%8E%E9%9B%B6%E6%92%B8%E4%B8%80%E4%B8%AA-ai-%E5%8A%A9%E6%89%8B-devassist%E7%94%A8-fastapi--deepseek-%E6%90%AD%E5%A5%BD%E9%AA%A8%E6%9E%B6/)
-- [在 Cloudflare Workers + D1 上实现用户邀请系统](https://han-gr.github.io/p/2026-07-02-%E5%9C%A8-cloudflare-workers--d1-%E4%B8%8A%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%88%B7%E9%82%80%E8%AF%B7%E7%B3%BB%E7%BB%9F/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
