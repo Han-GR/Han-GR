@@ -61,15 +61,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.5 kB Used in GitHub's Storage 
+> 📦 329.9 kB Used in GitHub's Storage 
  > 
-> 🏆 470 Contributions in the Year 2026
+> 🏆 477 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,21 +80,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-🌆 Daytime                742 commits         ████████████░░░░░░░░░░░░░   49.47 % 
-🌃 Evening                532 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
+🌞 Morning                223 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+🌆 Daytime                748 commits         ████████████░░░░░░░░░░░░░   49.64 % 
+🌃 Evening                532 commits         █████████░░░░░░░░░░░░░░░░   35.30 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   241 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 281 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Friday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Saturday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Sunday                   206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Monday                   241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Tuesday                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Thursday                 281 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Friday                   214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Sunday                   206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 ```
 
 
@@ -104,22 +104,21 @@ Sunday                   206 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-Swift                    6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-Python                   5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Rust                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-TypeScript               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Markdown                 7 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+Swift                    6 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Python                   4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Rust                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-Trae                     27 hrs 56 mins      █████████████████████████   100.00 % 
+Trae                     24 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rkit                     14 hrs 29 mins      █████████████░░░░░░░░░░░░   51.82 % 
-DevAssist                13 hrs 7 mins       ████████████░░░░░░░░░░░░░   46.96 % 
-ruitoolai                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+rkit                     15 hrs 20 mins      ███████████████░░░░░░░░░░   61.87 % 
+DevAssist                9 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
 
 💻 Operating System: 
-Mac                      27 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -139,7 +138,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 03:58:26 UTC
+ Last Updated on 18/07/2026 03:53:13 UTC
 <!--END_SECTION:waka-->
 
 ---
