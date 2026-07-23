@@ -104,21 +104,21 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
-Markdown                 3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-Python                   1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Markdown                 2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Swift                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Python                   1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-Trae                     15 hrs 1 min        █████████████████████████   100.00 % 
+Trae                     9 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rkit                     9 hrs 43 mins       ████████████████░░░░░░░░░   64.70 % 
-DevAssist                5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
+DevAssist                5 hrs 18 mins       █████████████░░░░░░░░░░░░   53.30 % 
+rkit                     4 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.70 % 
 
 💻 Operating System: 
-Mac                      15 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -138,7 +138,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 04:15:30 UTC
+ Last Updated on 23/07/2026 04:13:45 UTC
 <!--END_SECTION:waka-->
 
 ---
