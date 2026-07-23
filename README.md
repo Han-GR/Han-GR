@@ -17,11 +17,11 @@
 ### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [DevAssist 微调与数据流水线：从“聊天记录”到“可发布模型”的一条完整链路](https://han-gr.github.io/p/2026-07-19-devassist-%E5%BE%AE%E8%B0%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%BB%8E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%88%B0%E5%8F%AF%E5%8F%91%E5%B8%83%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%80%E6%9D%A1%E5%AE%8C%E6%95%B4%E9%93%BE%E8%B7%AF/)
+- [RKit：我常用的 uTools 工具的“轻量替代”](https://han-gr.github.io/p/2026-07-17-rkit%E6%88%91%E5%B8%B8%E7%94%A8%E7%9A%84-utools-%E5%B7%A5%E5%85%B7%E7%9A%84%E8%BD%BB%E9%87%8F%E6%9B%BF%E4%BB%A3/)
 - [DevAssist Agent 系统：从工具调用到可观测性](https://han-gr.github.io/p/2026-07-14-devassist-agent-%E7%B3%BB%E7%BB%9F%E4%BB%8E%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E5%88%B0%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/)
 - [在终端中快捷切换代理](https://han-gr.github.io/p/2026-07-13-%E5%9C%A8%E7%BB%88%E7%AB%AF%E4%B8%AD%E5%BF%AB%E6%8D%B7%E5%88%87%E6%8D%A2%E4%BB%A3%E7%90%86/)
 - [DevAssist RAG（检索增强生成）从零到跑通](https://han-gr.github.io/p/2026-07-12-devassist-rag%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90%E4%BB%8E%E9%9B%B6%E5%88%B0%E8%B7%91%E9%80%9A/)
-- [DevAssist 前端聊天 UI：Markdown 渲染、SSE 流式联调与交互打磨](https://han-gr.github.io/p/2026-07-10-devassist-%E5%89%8D%E7%AB%AF%E8%81%8A%E5%A4%A9-uimarkdown-%E6%B8%B2%E6%9F%93sse-%E6%B5%81%E5%BC%8F%E8%81%94%E8%B0%83%E4%B8%8E%E4%BA%A4%E4%BA%92%E6%89%93%E7%A3%A8/)
-- [DevAssist：从多轮对话到数据库持久化](https://han-gr.github.io/p/2026-07-09-devassist%E4%BB%8E%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D%E5%88%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8C%81%E4%B9%85%E5%8C%96/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
