@@ -102,24 +102,24 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
-Python                   1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Swift                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Python                   1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+TypeScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-Trae                     9 hrs 20 mins       █████████████████████████   100.00 % 
+Trae                     5 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevAssist                5 hrs 18 mins       ██████████████░░░░░░░░░░░   56.77 % 
-rkit                     3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.79 % 
-c-la                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-ni                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-g                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+DevAssist                5 hrs 18 mins       ███████████████████████░░   90.11 % 
+rkit                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+c-la                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+ni                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+g                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      9 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -139,7 +139,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 04:12:42 UTC
+ Last Updated on 25/07/2026 04:07:56 UTC
 <!--END_SECTION:waka-->
 
 ---
