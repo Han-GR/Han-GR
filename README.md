@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 330.8 kB Used in GitHub's Storage 
+> 📦 338.6 kB Used in GitHub's Storage 
  > 
 > 🏆 584 Contributions in the Year 2026
  > 
@@ -104,23 +104,24 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Other                    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+YAML                     2 hrs 13 mins       ███████████████████████░░   90.46 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Trae                     3 hrs 8 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 6 mins         ███████████░░░░░░░░░░░░░░   45.01 % 
+Trae                     1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.58 % 
+VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 🐱‍💻 Projects: 
-DevAssist                2 hrs 55 mins       ███████████████████████░░   92.77 % 
-c-la                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-ni                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-g                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+美国-新泽西45.77.79.251-clash.1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.89 % 
+DevAssist                36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+v                        31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+c-la                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+美国-新泽西45.77.79.251.yaml  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Mac                      3 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -140,7 +141,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 04:24:02 UTC
+ Last Updated on 27/07/2026 04:35:19 UTC
 <!--END_SECTION:waka-->
 
 ---
