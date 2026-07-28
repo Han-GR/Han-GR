@@ -61,7 +61,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -80,21 +82,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-🌆 Daytime                748 commits         ████████████░░░░░░░░░░░░░   46.03 % 
-🌃 Evening                639 commits         ██████████░░░░░░░░░░░░░░░   39.32 % 
+🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+🌆 Daytime                748 commits         ████████████░░░░░░░░░░░░░   46.00 % 
+🌃 Evening                639 commits         ██████████░░░░░░░░░░░░░░░   39.30 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Friday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Saturday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Friday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Saturday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 ```
 
 
@@ -124,6 +126,28 @@ c-la                     5 mins              █░░░░░░░░░░�
 Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 54 mins (37.22%)
+
+✍️ 191 lines written by AI, 993 lines written by hand (16.13% AI-written)
+
+🔤 3,204,803 Input Tokens, 21,299 Output Tokens
+
+💵 $16.66 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 18 AI Prompts
+
+GPT                      201 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 16.13% of written lines came from AI
+📝 Concise Prompter — average 40 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 86.63% of changed lines were hand-edited
+```
+
 **I Mostly Code in Swift** 
 
 ```text
@@ -141,7 +165,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 04:35:19 UTC
+ Last Updated on 28/07/2026 03:59:07 UTC
 <!--END_SECTION:waka-->
 
 ---
