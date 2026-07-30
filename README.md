@@ -61,11 +61,15 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 340.5 kB Used in GitHub's Storage 
+> 📦 340.6 kB Used in GitHub's Storage 
  > 
 > 🏆 584 Contributions in the Year 2026
  > 
@@ -102,32 +106,33 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     2 hrs 13 mins       ███████████████████████░░   93.31 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+YAML                     2 hrs 13 mins       █████████████████░░░░░░░░   68.37 % 
+Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 6 mins         ████████████░░░░░░░░░░░░░   46.42 % 
-Trae                     1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.83 % 
-VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Trae                     1 hr 53 mins        ███████████████░░░░░░░░░░   58.11 % 
+PyCharm                  1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.02 % 
+VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🐱‍💻 Projects: 
-美国-新泽西45.77.79.251-clash.1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.20 % 
-DevAssist                36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-v                        31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-c-la                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-美国-新泽西45.77.79.251.yaml  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+DevAssist                1 hr 28 mins        ███████████░░░░░░░░░░░░░░   45.18 % 
+美国-新泽西45.77.79.251-clash.1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   31.66 % 
+v                        31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+c-la                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+美国-新泽西45.77.79.251.yaml  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (35.24%)
+⏱ AI Coding Time: 50 mins (25.82%)
 
-✍️ 191 lines written by AI, 993 lines written by hand (16.13% AI-written)
+✍️ 191 lines written by AI, 1,043 lines written by hand (15.48% AI-written)
 
 🔤 3,025,572 Input Tokens, 19,492 Output Tokens
 
@@ -138,10 +143,10 @@ Mac                      2 hrs 23 mins       ███████████�
 GPT                      201 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.13% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 15.48% of written lines came from AI
 📝 Concise Prompter — average 48 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 86.63% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -161,7 +166,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 04:10:23 UTC
+ Last Updated on 30/07/2026 03:55:21 UTC
 <!--END_SECTION:waka-->
 
 ---
