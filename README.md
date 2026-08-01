@@ -71,32 +71,32 @@
 
 > 📦 340.6 kB Used in GitHub's Storage 
  > 
-> 🏆 584 Contributions in the Year 2026
+> 🏆 586 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-🌆 Daytime                748 commits         ████████████░░░░░░░░░░░░░   46.00 % 
-🌃 Evening                639 commits         ██████████░░░░░░░░░░░░░░░   39.30 % 
+🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+🌆 Daytime                748 commits         ███████████░░░░░░░░░░░░░░   45.97 % 
+🌃 Evening                640 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Friday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Saturday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Saturday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 ```
 
 
@@ -106,47 +106,49 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     2 hrs 16 mins       ███████████████░░░░░░░░░░   61.14 % 
-Markdown                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-Other                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+YAML                     2 hrs 26 mins       █████████████░░░░░░░░░░░░   53.97 % 
+Markdown                 1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.93 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Trae                     2 hrs 21 mins       ████████████████░░░░░░░░░   63.43 % 
-PyCharm                  1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Trae                     3 hrs 8 mins        █████████████████░░░░░░░░   69.77 % 
+PyCharm                  1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🐱‍💻 Projects: 
-DevAssist                1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   39.44 % 
-美国-新泽西45.77.79.251-clash.1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-v                        34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-zhe                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-美国-新泽西45.77.79.251.yaml  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+DevAssist                1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.42 % 
+美国-新泽西45.77.79.251-clash.1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Rnote                    53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+v                        31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+new-chat-5               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 💻 Operating System: 
-Mac                      3 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (35.24%)
+⏱ AI Coding Time: 56 mins (20.9%)
 
-✍️ 191 lines written by AI, 1,043 lines written by hand (15.48% AI-written)
+✍️ 191 lines written by AI, 1,063 lines written by hand (15.23% AI-written)
 
-🔤 3,464,453 Input Tokens, 25,071 Output Tokens
+🔤 5,439,279 Input Tokens, 60,017 Output Tokens
 
-💵 $18.07 Estimated AI Cost This Week
+💵 $28.98 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 21 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
 GPT                      201 lines           █████████████████████████   100.00 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.48% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 87.07% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.23% of written lines came from AI
+📝 Concise Prompter — average 234 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 87.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -166,7 +168,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 04:20:57 UTC
+ Last Updated on 01/08/2026 04:19:14 UTC
 <!--END_SECTION:waka-->
 
 ---
