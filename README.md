@@ -61,15 +61,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 340.6 kB Used in GitHub's Storage 
+> 📦 340.8 kB Used in GitHub's Storage 
  > 
 > 🏆 586 Contributions in the Year 2026
  > 
@@ -106,34 +106,34 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     2 hrs 26 mins       █████████████░░░░░░░░░░░░   53.97 % 
-Markdown                 1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.93 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+YAML                     2 hrs 26 mins       █████████████░░░░░░░░░░░░   53.58 % 
+Markdown                 1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.85 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Trae                     3 hrs 8 mins        █████████████████░░░░░░░░   69.77 % 
-PyCharm                  1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Trae                     3 hrs 10 mins       █████████████████░░░░░░░░   69.98 % 
+PyCharm                  1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 🐱‍💻 Projects: 
-DevAssist                1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.42 % 
-美国-新泽西45.77.79.251-clash.1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Rnote                    53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-v                        31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-new-chat-5               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+DevAssist                1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.14 % 
+美国-新泽西45.77.79.251-clash.1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Rnote                    55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+v                        31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+new-chat-5               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (20.9%)
+⏱ AI Coding Time: 56 mins (20.75%)
 
-✍️ 191 lines written by AI, 1,063 lines written by hand (15.23% AI-written)
+✍️ 191 lines written by AI, 1,132 lines written by hand (14.44% AI-written)
 
 🔤 5,439,279 Input Tokens, 60,017 Output Tokens
 
@@ -145,10 +145,10 @@ GPT                      201 lines           ███████████�
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.23% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 14.44% of written lines came from AI
 📝 Concise Prompter — average 234 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 87.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -168,7 +168,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 04:19:14 UTC
+ Last Updated on 02/08/2026 04:22:00 UTC
 <!--END_SECTION:waka-->
 
 ---
