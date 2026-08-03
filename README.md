@@ -61,7 +61,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2025%20mins-blue?style=flat)
 
@@ -106,49 +106,47 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     2 hrs 26 mins       █████████████░░░░░░░░░░░░   53.58 % 
-Markdown                 1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.85 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Markdown                 1 hr 29 mins        ████████████████░░░░░░░░░   64.60 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-Trae                     3 hrs 10 mins       █████████████████░░░░░░░░   69.98 % 
-PyCharm                  1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Trae                     2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevAssist                1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.14 % 
-美国-新泽西45.77.79.251-clash.1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Rnote                    55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-v                        31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-new-chat-5               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+DevAssist                1 hr 7 mins         ████████████░░░░░░░░░░░░░   49.01 % 
+Rnote                    55 mins             ██████████░░░░░░░░░░░░░░░   39.98 % 
+new-chat-5               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+wo-y                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+ni                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (20.75%)
+⏱ AI Coding Time: 15 mins (11.01%)
 
-✍️ 191 lines written by AI, 1,132 lines written by hand (14.44% AI-written)
+✍️ 0 lines written by AI, 139 lines written by hand (0.0% AI-written)
 
-🔤 5,439,279 Input Tokens, 60,017 Output Tokens
+🔤 2,583,879 Input Tokens, 43,085 Output Tokens
 
-💵 $28.98 Estimated AI Cost This Week
+💵 $14.20 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
-GPT                      201 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.44% of written lines came from AI
-📝 Concise Prompter — average 234 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 87.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 421 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -168,7 +166,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 04:22:00 UTC
+ Last Updated on 03/08/2026 04:28:29 UTC
 <!--END_SECTION:waka-->
 
 ---
