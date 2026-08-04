@@ -69,34 +69,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 340.8 kB Used in GitHub's Storage 
+> 📦 340.7 kB Used in GitHub's Storage 
  > 
-> 🏆 586 Contributions in the Year 2026
+> 🏆 588 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-🌆 Daytime                748 commits         ███████████░░░░░░░░░░░░░░   45.97 % 
-🌃 Evening                640 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+🌆 Daytime                748 commits         ███████████░░░░░░░░░░░░░░   45.95 % 
+🌃 Evening                641 commits         ██████████░░░░░░░░░░░░░░░   39.37 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Monday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
 Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Saturday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 
 
@@ -106,47 +106,47 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 29 mins        ████████████████░░░░░░░░░   64.60 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown                 2 hrs 26 mins       ████████████████░░░░░░░░░   65.96 % 
+Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Trae                     2 hrs 18 mins       █████████████████████████   100.00 % 
+Trae                     3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevAssist                1 hr 7 mins         ████████████░░░░░░░░░░░░░   49.01 % 
-Rnote                    55 mins             ██████████░░░░░░░░░░░░░░░   39.98 % 
-new-chat-5               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-wo-y                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-ni                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+DevAssist                1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   30.57 % 
+Rnote                    55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+wo                       54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+dnwwdwd-notus-https-githu19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+new-chat-5               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (11.01%)
+⏱ AI Coding Time: 1 hr 38 mins (44.26%)
 
-✍️ 0 lines written by AI, 139 lines written by hand (0.0% AI-written)
+✍️ 1,258 lines written by AI, 139 lines written by hand (90.05% AI-written)
 
-🔤 2,583,879 Input Tokens, 43,085 Output Tokens
+🔤 6,285,751 Input Tokens, 85,893 Output Tokens
 
-💵 $14.20 Estimated AI Cost This Week
+💵 $33.99 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 6 AI Sessions, 27 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,258 lines         █████████████████████████   100.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 421 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 90.05% of written lines came from AI
+📝 Concise Prompter — average 375 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -166,7 +166,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 04:28:29 UTC
+ Last Updated on 04/08/2026 04:11:12 UTC
 <!--END_SECTION:waka-->
 
 ---
