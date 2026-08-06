@@ -106,32 +106,32 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       ████████████████░░░░░░░░░   65.96 % 
-Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 1 hr 34 mins        ██████████████░░░░░░░░░░░   55.50 % 
+Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Trae                     3 hrs 42 mins       █████████████████████████   100.00 % 
+Trae                     2 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevAssist                1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   30.57 % 
-Rnote                    55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-wo                       54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-dnwwdwd-notus-https-githu19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-new-chat-5               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Rnote                    55 mins             ████████░░░░░░░░░░░░░░░░░   32.90 % 
+wo                       54 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
+dnwwdwd-notus-https-githu19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+DevAssist                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+new-chat-5               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (44.26%)
+⏱ AI Coding Time: 1 hr 38 mins (57.85%)
 
-✍️ 1,258 lines written by AI, 139 lines written by hand (90.05% AI-written)
+✍️ 1,258 lines written by AI, 89 lines written by hand (93.39% AI-written)
 
 🔤 6,285,751 Input Tokens, 85,893 Output Tokens
 
@@ -143,10 +143,10 @@ GPT                      1,258 lines         ███████████�
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.05% of written lines came from AI
+🤖 AI-Driven — 93.39% of written lines came from AI
 📝 Concise Prompter — average 375 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 10.53% of changed lines were hand-edited
+🚀 High AI Trust — 7.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -166,7 +166,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 03:58:56 UTC
+ Last Updated on 06/08/2026 04:09:51 UTC
 <!--END_SECTION:waka-->
 
 ---
