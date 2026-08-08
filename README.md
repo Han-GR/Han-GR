@@ -61,6 +61,10 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -102,47 +106,45 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        ██████████████░░░░░░░░░░░   55.50 % 
-Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown                 57 mins             █████████████████░░░░░░░░   67.13 % 
+Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Trae                     2 hrs 50 mins       █████████████████████████   100.00 % 
+Trae                     1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rnote                    55 mins             ████████░░░░░░░░░░░░░░░░░   32.90 % 
-wo                       54 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
-dnwwdwd-notus-https-githu19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-DevAssist                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-new-chat-5               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+wo                       54 mins             ████████████████░░░░░░░░░   63.99 % 
+dnwwdwd-notus-https-githu19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+co                       8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Rnote                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (57.85%)
+⏱ AI Coding Time: 1 hr 23 mins (97.08%)
 
-✍️ 1,258 lines written by AI, 89 lines written by hand (93.39% AI-written)
+✍️ 1,258 lines written by AI, 69 lines written by hand (94.8% AI-written)
 
-🔤 6,285,751 Input Tokens, 85,893 Output Tokens
+🔤 3,701,872 Input Tokens, 42,808 Output Tokens
 
-💵 $33.99 Estimated AI Cost This Week
+💵 $17.12 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
 
 GPT                      1,258 lines         █████████████████████████   100.00 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.39% of written lines came from AI
-📝 Concise Prompter — average 375 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.16% of changed lines were hand-edited
+🤖 AI-Driven — 94.8% of written lines came from AI
+📝 Concise Prompter — average 352 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -162,7 +164,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 03:48:33 UTC
+ Last Updated on 08/08/2026 02:53:31 UTC
 <!--END_SECTION:waka-->
 
 ---
