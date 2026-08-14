@@ -61,9 +61,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,45 +106,46 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 44 mins       ███████████████░░░░░░░░░░   61.76 % 
-Python                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 8 hrs 21 mins       ██████████████░░░░░░░░░░░   55.27 % 
+Python                   5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs               █████████████████████░░░░   82.56 % 
-Codex Vscode             1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+PyCharm                  11 hrs 22 mins      ███████████████████░░░░░░   75.23 % 
+Codex Vscode             3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
 
 🐱‍💻 Projects: 
-Voyager-AI               5 hrs 37 mins       ███████████████████████░░   92.73 % 
-Rnote                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-langchain-study          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Voyager-AI               14 hrs 40 mins      ████████████████████████░   97.08 % 
+Rnote                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+langchain-study          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (94.94%)
+⏱ AI Coding Time: 14 hrs 46 mins (97.74%)
 
-✍️ 3,824 lines written by AI, 3 lines written by hand (99.92% AI-written)
+✍️ 11,276 lines written by AI, 4 lines written by hand (99.96% AI-written)
 
-🔤 3,728,483 Input Tokens, 287,524 Output Tokens
+🔤 8,626,526 Input Tokens, 688,569 Output Tokens
 
-💵 $64.28 Estimated AI Cost This Week
+💵 $156.75 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 75 AI Prompts
+🧠 92 AI Sessions, 128 AI Prompts
 
-GPT                      3,837 lines         █████████████████████████   100.00 % 
+GPT                      11,343 lines        █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 819 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 858 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -164,7 +165,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 03:25:41 UTC
+ Last Updated on 14/08/2026 03:23:17 UTC
 <!--END_SECTION:waka-->
 
 ---
