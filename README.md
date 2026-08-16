@@ -17,11 +17,11 @@
 ### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
-- [DevAssist 微调与数据流水线：从“聊天记录”到“可发布模型”的一条完整链路](https://han-gr.github.io/p/2026-07-19-devassist-%E5%BE%AE%E8%B0%83%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%BB%8E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%88%B0%E5%8F%AF%E5%8F%91%E5%B8%83%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%80%E6%9D%A1%E5%AE%8C%E6%95%B4%E9%93%BE%E8%B7%AF/)
-- [RKit：我常用的 uTools 工具的“轻量替代”](https://han-gr.github.io/p/2026-07-17-rkit%E6%88%91%E5%B8%B8%E7%94%A8%E7%9A%84-utools-%E5%B7%A5%E5%85%B7%E7%9A%84%E8%BD%BB%E9%87%8F%E6%9B%BF%E4%BB%A3/)
-- [DevAssist Agent 系统：从工具调用到可观测性](https://han-gr.github.io/p/2026-07-14-devassist-agent-%E7%B3%BB%E7%BB%9F%E4%BB%8E%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E5%88%B0%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/)
-- [在终端中快捷切换代理](https://han-gr.github.io/p/2026-07-13-%E5%9C%A8%E7%BB%88%E7%AB%AF%E4%B8%AD%E5%BF%AB%E6%8D%B7%E5%88%87%E6%8D%A2%E4%BB%A3%E7%90%86/)
-- [DevAssist RAG（检索增强生成）从零到跑通](https://han-gr.github.io/p/2026-07-12-devassist-rag%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90%E4%BB%8E%E9%9B%B6%E5%88%B0%E8%B7%91%E9%80%9A/)
+- [怎样把 LangGraph 接入真实应用：从 Runnable 到旅行任务 API](https://han-gr.github.io/p/2026-08-14-voyager-ai-08-%E6%80%8E%E6%A0%B7%E6%8A%8A-langgraph-%E6%8E%A5%E5%85%A5%E7%9C%9F%E5%AE%9E%E5%BA%94%E7%94%A8%E4%BB%8E-runnable-%E5%88%B0%E6%97%85%E8%A1%8C%E4%BB%BB%E5%8A%A1-api/)
+- [怎样约束大模型的回答：理解 LangChain 结构化输出](https://han-gr.github.io/p/2026-08-11-voyager-ai-07-%E6%80%8E%E6%A0%B7%E7%BA%A6%E6%9D%9F%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9B%9E%E7%AD%94%E7%90%86%E8%A7%A3-langchain-%E7%BB%93%E6%9E%84%E5%8C%96%E8%BE%93%E5%87%BA/)
+- [审核不通过怎么办：理解 LangGraph 的条件边与循环](https://han-gr.github.io/p/2026-08-05-voyager-ai-06-%E5%AE%A1%E6%A0%B8%E4%B8%8D%E9%80%9A%E8%BF%87%E6%80%8E%E4%B9%88%E5%8A%9E%E7%90%86%E8%A7%A3-langgraph-%E7%9A%84%E6%9D%A1%E4%BB%B6%E8%BE%B9%E4%B8%8E%E5%BE%AA%E7%8E%AF/)
+- [多个 Agent 怎样同时工作：理解 LangGraph 的分支与汇合](https://han-gr.github.io/p/2026-08-02-voyager-ai-05-%E5%A4%9A%E4%B8%AA-agent-%E6%80%8E%E6%A0%B7%E5%90%8C%E6%97%B6%E5%B7%A5%E4%BD%9C%E7%90%86%E8%A7%A3-langgraph-%E7%9A%84%E5%88%86%E6%94%AF%E4%B8%8E%E6%B1%87%E5%90%88/)
+- [为什么需要一张图：理解 LangGraph 的节点、边和执行顺序](https://han-gr.github.io/p/2026-07-28-voyager-ai-04-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%90%86%E8%A7%A3-langgraph-%E7%9A%84%E8%8A%82%E7%82%B9%E8%BE%B9%E5%92%8C%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
