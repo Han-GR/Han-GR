@@ -106,46 +106,46 @@ Sunday                   248 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 45 mins      ███████████████░░░░░░░░░░   58.54 % 
-Python                   6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
-GitIgnore file           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Markdown                 12 hrs 11 mins      ███████████████░░░░░░░░░░   58.81 % 
+Python                   6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+GitIgnore file           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 41 mins      ██████████████████░░░░░░░   71.96 % 
-Codex Vscode             6 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+PyCharm                  15 hrs 22 mins      ███████████████████░░░░░░   74.18 % 
+Codex Vscode             5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
 
 🐱‍💻 Projects: 
-Voyager-AI               19 hrs 45 mins      ███████████████████████░░   90.67 % 
-Rnote                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Han-GR.github.io         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Lee-private-study-notes  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Voyager-AI               19 hrs 45 mins      ████████████████████████░   95.33 % 
+Han-GR.github.io         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Rnote                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Lee-private-study-notes  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Mac                      21 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 8 mins (97.0%)
+⏱ AI Coding Time: 20 hrs 4 mins (96.85%)
 
-✍️ 15,654 lines written by AI, 4 lines written by hand (99.97% AI-written)
+✍️ 14,767 lines written by AI, 4 lines written by hand (99.97% AI-written)
 
-🔤 15,500,821 Input Tokens, 1,260,171 Output Tokens
+🔤 10,761,838 Input Tokens, 981,994 Output Tokens
 
-💵 $224.16 Estimated AI Cost This Week
+💵 $210.65 Estimated AI Cost This Week
 
-🧠 113 AI Sessions, 176 AI Prompts
+🧠 111 AI Sessions, 164 AI Prompts
 
-GPT                      15,802 lines        █████████████████████████   100.00 % 
+GPT                      14,915 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 749 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 795 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
@@ -166,7 +166,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 02:14:25 UTC
+ Last Updated on 19/08/2026 02:17:22 UTC
 <!--END_SECTION:waka-->
 
 ---
