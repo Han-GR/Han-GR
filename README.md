@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 353.1 kB Used in GitHub's Storage 
+> 📦 354.3 kB Used in GitHub's Storage 
  > 
 > 🏆 650 Contributions in the Year 2026
  > 
@@ -106,47 +106,46 @@ Sunday                   248 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 11 mins      ███████████████░░░░░░░░░░   58.81 % 
-Python                   6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-GitIgnore file           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 8 hrs 25 mins       ██████████████░░░░░░░░░░░   57.68 % 
+Python                   5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
+GitIgnore file           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 22 mins      ███████████████████░░░░░░   74.18 % 
-Codex Vscode             5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+PyCharm                  10 hrs 21 mins      ██████████████████░░░░░░░   70.89 % 
+Codex Vscode             4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
 
 🐱‍💻 Projects: 
-Voyager-AI               19 hrs 45 mins      ████████████████████████░   95.33 % 
-Han-GR.github.io         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Rnote                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Lee-private-study-notes  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Voyager-AI               13 hrs 44 mins      ████████████████████████░   94.13 % 
+Han-GR.github.io         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Lee-private-study-notes  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Mac                      20 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 4 mins (96.85%)
+⏱ AI Coding Time: 14 hrs 15 mins (97.62%)
 
-✍️ 14,767 lines written by AI, 4 lines written by hand (99.97% AI-written)
+✍️ 10,797 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 10,761,838 Input Tokens, 981,994 Output Tokens
+🔤 7,458,587 Input Tokens, 691,478 Output Tokens
 
-💵 $210.65 Estimated AI Cost This Week
+💵 $143.11 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 164 AI Prompts
+🧠 58 AI Sessions, 86 AI Prompts
 
-GPT                      14,915 lines        █████████████████████████   100.00 % 
+GPT                      10,932 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 795 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 776 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +165,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 02:17:22 UTC
+ Last Updated on 20/08/2026 02:16:04 UTC
 <!--END_SECTION:waka-->
 
 ---
