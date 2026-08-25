@@ -61,15 +61,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 354.4 kB Used in GitHub's Storage 
+> 📦 354.6 kB Used in GitHub's Storage 
  > 
 > 🏆 678 Contributions in the Year 2026
  > 
@@ -106,45 +106,47 @@ Sunday                   248 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
-Markdown                 5 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.63 % 
-TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Vue                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Markdown                 10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.14 % 
+Python                   8 hrs               █████████░░░░░░░░░░░░░░░░   35.48 % 
+TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Vue                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Diff                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-PyCharm                  10 hrs 36 mins      █████████████████░░░░░░░░   66.82 % 
-Codex Vscode             5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
+PyCharm                  13 hrs 40 mins      ███████████████░░░░░░░░░░   60.58 % 
+Codex Vscode             8 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.42 % 
 
 🐱‍💻 Projects: 
-Voyager-AI               15 hrs 42 mins      █████████████████████████   98.93 % 
-Han-GR.github.io         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Voyager-AI               21 hrs 49 mins      ████████████████████████░   96.67 % 
+repo                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Han-GR.github.io         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+voyager-phase6-task1     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Mac                      15 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 50 mins (99.8%)
+⏱ AI Coding Time: 22 hrs 32 mins (99.86%)
 
-✍️ 11,447 lines written by AI, 36 lines written by hand (99.69% AI-written)
+✍️ 18,067 lines written by AI, 36 lines written by hand (99.8% AI-written)
 
-🔤 72,921,618 Input Tokens, 5,231,925 Output Tokens
+🔤 75,510,270 Input Tokens, 5,523,955 Output Tokens
 
-💵 $109.86 Estimated AI Cost This Week
+💵 $156.36 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 79 AI Prompts
+🧠 47 AI Sessions, 103 AI Prompts
 
-GPT                      11,595 lines        █████████████████████████   100.00 % 
+GPT                      18,251 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📚 Verbose Prompter — average 2,125 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 1,677 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +166,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 02:21:58 UTC
+ Last Updated on 25/08/2026 02:17:02 UTC
 <!--END_SECTION:waka-->
 
 ---
