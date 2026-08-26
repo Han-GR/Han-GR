@@ -61,9 +61,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,47 +106,48 @@ Sunday                   248 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.14 % 
-Python                   8 hrs               █████████░░░░░░░░░░░░░░░░   35.48 % 
-TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Vue                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Diff                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown                 10 hrs 46 mins      ███████████░░░░░░░░░░░░░░   42.53 % 
+Python                   10 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   39.95 % 
+TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Vue                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Diff                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-PyCharm                  13 hrs 40 mins      ███████████████░░░░░░░░░░   60.58 % 
-Codex Vscode             8 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.42 % 
+PyCharm                  14 hrs 31 mins      ██████████████░░░░░░░░░░░   57.36 % 
+Codex Vscode             10 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.64 % 
 
 🐱‍💻 Projects: 
-Voyager-AI               21 hrs 49 mins      ████████████████████████░   96.67 % 
-repo                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Han-GR.github.io         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-voyager-phase6-task1     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Voyager-AI               24 hrs 29 mins      ████████████████████████░   96.68 % 
+repo                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Han-GR.github.io         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+voyager-phase6-task1     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+wo-y                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Mac                      22 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 32 mins (99.86%)
+⏱ AI Coding Time: 25 hrs 15 mins (99.75%)
 
-✍️ 18,067 lines written by AI, 36 lines written by hand (99.8% AI-written)
+✍️ 20,964 lines written by AI, 37 lines written by hand (99.82% AI-written)
 
-🔤 75,510,270 Input Tokens, 5,523,955 Output Tokens
+🔤 80,734,004 Input Tokens, 5,957,751 Output Tokens
 
-💵 $156.36 Estimated AI Cost This Week
+💵 $176.65 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 103 AI Prompts
+🧠 55 AI Sessions, 122 AI Prompts
 
-GPT                      18,251 lines        █████████████████████████   100.00 % 
+GPT                      21,168 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 1,677 characters per prompt
+🤖 AI-Driven — 99.82% of written lines came from AI
+📚 Verbose Prompter — average 1,521 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +167,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 02:17:02 UTC
+ Last Updated on 26/08/2026 02:23:41 UTC
 <!--END_SECTION:waka-->
 
 ---
