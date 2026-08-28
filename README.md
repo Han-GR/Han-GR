@@ -61,21 +61,21 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 354.6 kB Used in GitHub's Storage 
+> 📦 355.9 kB Used in GitHub's Storage 
  > 
-> 🏆 678 Contributions in the Year 2026
+> 🏆 679 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -106,48 +106,48 @@ Sunday                   248 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.33 % 
-Markdown                 11 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   40.36 % 
-TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Vue                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Diff                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Python                   10 hrs 44 mins      ███████████░░░░░░░░░░░░░░   45.87 % 
+Markdown                 9 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
+Vue                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+textmate                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 12 mins      █████████████░░░░░░░░░░░░   53.12 % 
-Codex Vscode             13 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.88 % 
+Codex Vscode             13 hrs 23 mins      ██████████████░░░░░░░░░░░   57.20 % 
+PyCharm                  10 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.80 % 
 
 🐱‍💻 Projects: 
-Voyager-AI               27 hrs 47 mins      ████████████████████████░   97.06 % 
-repo                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Han-GR.github.io         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-voyager-phase6-task1     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-wo-y                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Voyager-AI               22 hrs 19 mins      ████████████████████████░   95.31 % 
+repo                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+maptoposter              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Han-GR.github.io         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+voyager-phase6-task1     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      28 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 33 mins (99.77%)
+⏱ AI Coding Time: 23 hrs 20 mins (99.69%)
 
-✍️ 22,281 lines written by AI, 37 lines written by hand (99.83% AI-written)
+✍️ 16,252 lines written by AI, 37 lines written by hand (99.77% AI-written)
 
-🔤 104,373,068 Input Tokens, 7,978,724 Output Tokens
+🔤 67,104,134 Input Tokens, 5,301,542 Output Tokens
 
-💵 $315.69 Estimated AI Cost This Week
+💵 $273.64 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 149 AI Prompts
+🧠 51 AI Sessions, 158 AI Prompts
 
-GPT                      22,663 lines        █████████████████████████   100.00 % 
+GPT                      16,594 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📄 Detailed Prompter — average 1,482 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 856 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 10:54:23 UTC
+ Last Updated on 28/08/2026 12:29:56 UTC
 <!--END_SECTION:waka-->
 
 ---
