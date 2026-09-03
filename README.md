@@ -69,9 +69,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 365.2 kB Used in GitHub's Storage 
+> 📦 365.3 kB Used in GitHub's Storage 
  > 
-> 🏆 757 Contributions in the Year 2026
+> 🏆 761 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,21 +82,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌆 Daytime                808 commits         ███████████░░░░░░░░░░░░░░   45.01 % 
-🌃 Evening                731 commits         ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌞 Morning                252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                812 commits         ███████████░░░░░░░░░░░░░░   45.14 % 
+🌃 Evening                731 commits         ██████████░░░░░░░░░░░░░░░   40.63 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Tuesday                  203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Saturday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Sunday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Monday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Tuesday                  203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Wednesday                239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Thursday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Sunday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
 
@@ -106,44 +106,44 @@ Sunday                   252 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.44 % 
-Markdown                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.39 % 
-Vue                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Markdown                 1 hr 4 mins         ████████████████░░░░░░░░░   65.39 % 
+Python                   25 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Shell Script             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+GitIgnore file           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 2 mins        ████████████████████░░░░░   80.95 % 
-PyCharm                  56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Codex Vscode             1 hr 23 mins        █████████████████████░░░░   84.25 % 
+PyCharm                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 
 🐱‍💻 Projects: 
-Voyager-AI               4 hrs 43 mins       ████████████████████████░   94.87 % 
-maptoposter              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Voyager-AI               1 hr 23 mins        █████████████████████░░░░   84.43 % 
+maptoposter              15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 
 💻 Operating System: 
-Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 58 mins (99.85%)
+⏱ AI Coding Time: 1 hr 38 mins (99.54%)
 
-✍️ 2,234 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 898 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 24,610,878 Input Tokens, 2,105,986 Output Tokens
+🔤 939,670 Input Tokens, 80,704 Output Tokens
 
-💵 $152.80 Estimated AI Cost This Week
+💵 $12.90 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 63 AI Prompts
+🧠 7 AI Sessions, 35 AI Prompts
 
-GPT                      2,431 lines         █████████████████████████   100.00 % 
+GPT                      907 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 702 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 225 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -164,7 +164,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 05:26:57 UTC
+ Last Updated on 03/09/2026 05:28:21 UTC
 <!--END_SECTION:waka-->
 
 ---
