@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 365.3 kB Used in GitHub's Storage 
+> 📦 368.1 kB Used in GitHub's Storage 
  > 
 > 🏆 761 Contributions in the Year 2026
  > 
@@ -106,45 +106,22 @@ Sunday                   252 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 4 mins         ████████████████░░░░░░░░░   65.39 % 
-Python                   25 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Shell Script             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-GitIgnore file           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 23 mins        █████████████████████░░░░   84.25 % 
-PyCharm                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Voyager-AI               1 hr 23 mins        █████████████████████░░░░   84.43 % 
-maptoposter              15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (99.54%)
-
-✍️ 898 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 939,670 Input Tokens, 80,704 Output Tokens
-
-💵 $12.90 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 35 AI Prompts
-
-GPT                      907 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +141,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 05:28:21 UTC
+ Last Updated on 04/09/2026 05:29:20 UTC
 <!--END_SECTION:waka-->
 
 ---
