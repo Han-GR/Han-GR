@@ -61,15 +61,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 368.1 kB Used in GitHub's Storage 
+> 📦 368.3 kB Used in GitHub's Storage 
  > 
 > 🏆 761 Contributions in the Year 2026
  > 
@@ -106,22 +106,46 @@ Sunday                   252 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
+TypeScript               2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Python                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Vue                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 hrs 44 mins       █████████████████░░░░░░░░   67.82 % 
+Codex Vscode             2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Voyager-AI               5 hrs 23 mins       ███████████████████░░░░░░   76.93 % 
+ruitoolai                1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Han-GR.github.io         23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 55 mins (98.94%)
+
+✍️ 6,392 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 9,373,173 Input Tokens, 722,047 Output Tokens
+
+💵 $307.62 Estimated AI Cost This Week
+
+🧠 71 AI Sessions, 158 AI Prompts
+
+GPT                      6,627 lines         █████████████████████████   98.78 % 
+Codex-Vscode             82 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 20,839 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +165,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 05:29:20 UTC
+ Last Updated on 05/09/2026 05:15:11 UTC
 <!--END_SECTION:waka-->
 
 ---
