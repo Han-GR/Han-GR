@@ -17,11 +17,11 @@
 ### 📕 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 时代，代码正在变成产物](https://han-gr.github.io/p/2026-09-09-ai-%E6%97%B6%E4%BB%A3%E4%BB%A3%E7%A0%81%E6%AD%A3%E5%9C%A8%E5%8F%98%E6%88%90%E4%BA%A7%E7%89%A9/)
 - [Agent 项目怎样开放体验：匿名访问、限额与失败关闭](https://han-gr.github.io/p/2026-08-31-voyager-ai-12-agent%E9%A1%B9%E7%9B%AE%E6%80%8E%E6%A0%B7%E5%BC%80%E6%94%BE%E4%BD%93%E9%AA%8C%E5%8C%BF%E5%90%8D%E8%AE%BF%E9%97%AE%E9%99%90%E9%A2%9D%E4%B8%8E%E5%A4%B1%E8%B4%A5%E5%85%B3%E9%97%AD/)
 - [Agent 为什么需要记忆：区分状态、画像和历史记录](https://han-gr.github.io/p/2026-08-27-voyager-ai-11-agent%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%AE%B0%E5%BF%86%E5%8C%BA%E5%88%86%E7%8A%B6%E6%80%81%E7%94%BB%E5%83%8F%E5%92%8C%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/)
 - [Agent 怎样获取实时信息：把旅行工具接入 LangGraph](https://han-gr.github.io/p/2026-08-22-voyager-ai-10-agent%E6%80%8E%E6%A0%B7%E8%8E%B7%E5%8F%96%E5%AE%9E%E6%97%B6%E4%BF%A1%E6%81%AF%E6%8A%8A%E6%97%85%E8%A1%8C%E5%B7%A5%E5%85%B7%E6%8E%A5%E5%85%A5-langgraph/)
 - [大模型怎样读懂自己的资料：用 Voyager-AI 理解 RAG](https://han-gr.github.io/p/2026-08-18-voyager-ai-09-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%80%8E%E6%A0%B7%E8%AF%BB%E6%87%82%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B5%84%E6%96%99%E7%94%A8-voyager-ai-%E7%90%86%E8%A7%A3-rag/)
-- [怎样把 LangGraph 接入真实应用：从 Runnable 到旅行任务 API](https://han-gr.github.io/p/2026-08-14-voyager-ai-08-%E6%80%8E%E6%A0%B7%E6%8A%8A-langgraph-%E6%8E%A5%E5%85%A5%E7%9C%9F%E5%AE%9E%E5%BA%94%E7%94%A8%E4%BB%8E-runnable-%E5%88%B0%E6%97%85%E8%A1%8C%E4%BB%BB%E5%8A%A1-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
