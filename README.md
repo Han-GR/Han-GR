@@ -61,17 +61,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 386.8 kB Used in GitHub's Storage 
+> 📦 387.6 kB Used in GitHub's Storage 
  > 
-> 🏆 856 Contributions in the Year 2026
+> 🏆 859 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,21 +82,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-🌆 Daytime                828 commits         ███████████░░░░░░░░░░░░░░   45.17 % 
-🌃 Evening                749 commits         ██████████░░░░░░░░░░░░░░░   40.86 % 
+🌞 Morning                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+🌆 Daytime                835 commits         ███████████░░░░░░░░░░░░░░   45.31 % 
+🌃 Evening                752 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Thursday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Friday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Saturday                 260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Sunday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Monday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Wednesday                249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Thursday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Friday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Saturday                 260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Sunday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 ```
 
 
@@ -106,45 +106,45 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 8 mins        ███████████████░░░░░░░░░░   60.23 % 
-Markdown                 1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Python                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+TypeScript               5 hrs 45 mins       ██████████████████░░░░░░░   72.19 % 
+Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 16 mins       ██████████████████░░░░░░░   73.53 % 
-PyCharm                  2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Codex Vscode             6 hrs 1 min         ███████████████████░░░░░░   75.46 % 
+PyCharm                  1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
 
 🐱‍💻 Projects: 
-ruitoolai                6 hrs 30 mins       ███████████████████░░░░░░   76.32 % 
-Voyager-AI               1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-ai-native                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+ruitoolai                7 hrs 14 mins       ███████████████████████░░   90.81 % 
+Voyager-AI               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+ai-native                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 💻 Operating System: 
-Mac                      8 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 23 mins (98.37%)
+⏱ AI Coding Time: 7 hrs 50 mins (98.26%)
 
-✍️ 2,701 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,395 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,865,659 Input Tokens, 290,149 Output Tokens
+🔤 6,406,586 Input Tokens, 263,304 Output Tokens
 
-💵 $87.36 Estimated AI Cost This Week
+💵 $86.81 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 185 AI Prompts
+🧠 24 AI Sessions, 167 AI Prompts
 
-GPT                      3,624 lines         ████████████████████████░   97.79 % 
-Codex-Vscode             82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+GPT                      3,248 lines         ████████████████████████░   97.54 % 
+Codex-Vscode             82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 22,530 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 24,648 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -165,7 +165,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 05:43:01 UTC
+ Last Updated on 10/09/2026 05:35:24 UTC
 <!--END_SECTION:waka-->
 
 ---
