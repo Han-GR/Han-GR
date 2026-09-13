@@ -61,9 +61,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,46 +106,46 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 32 mins      ████████████████████░░░░░   81.27 % 
-Text                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               12 hrs 25 mins      █████████████████████░░░░   83.95 % 
+SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 59 mins      ██████████████████░░░░░░░   71.91 % 
-PyCharm                  4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Codex Vscode             10 hrs 46 mins      ██████████████████░░░░░░░   72.80 % 
+PyCharm                  4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
 
 🐱‍💻 Projects: 
-ruitoolai                16 hrs 24 mins      █████████████████████████   98.45 % 
-ai-native                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-referenced-chatgpt-conver0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+ruitoolai                14 hrs 33 mins      █████████████████████████   98.26 % 
+ai-native                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+referenced-chatgpt-conver0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      16 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 35 mins (99.49%)
+⏱ AI Coding Time: 14 hrs 43 mins (99.43%)
 
-✍️ 6,695 lines written by AI, 5 lines written by hand (99.93% AI-written)
+✍️ 6,694 lines written by AI, 5 lines written by hand (99.93% AI-written)
 
-🔤 13,387,104 Input Tokens, 630,826 Output Tokens
+🔤 12,584,534 Input Tokens, 607,859 Output Tokens
 
-💵 $200.62 Estimated AI Cost This Week
+💵 $189.11 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 309 AI Prompts
+🧠 29 AI Sessions, 264 AI Prompts
 
-GPT                      7,086 lines         ██████████████████████░░░   86.85 % 
-Codex-Vscode             1,073 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+GPT                      7,139 lines         ██████████████████████░░░   86.93 % 
+Codex-Vscode             1,073 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 34,441 characters per prompt
+📚 Verbose Prompter — average 34,846 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -165,7 +165,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 05:23:55 UTC
+ Last Updated on 13/09/2026 05:39:31 UTC
 <!--END_SECTION:waka-->
 
 ---
