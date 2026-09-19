@@ -106,44 +106,42 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ███████████████████░░░░░░   75.59 % 
-SQL                      44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-textmate                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               22 mins             ███████████████████████░░   92.40 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 34 mins       ████████████████░░░░░░░░░   63.47 % 
-PyCharm                  1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   36.53 % 
+PyCharm                  17 mins             ██████████████████░░░░░░░   72.51 % 
+Codex Vscode             6 mins              ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 
 🐱‍💻 Projects: 
-ruitoolai                4 hrs 3 mins        █████████████████████████   100.00 % 
+ruitoolai                24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 24 mins (100.0%)
 
-✍️ 515 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,825,393 Input Tokens, 152,489 Output Tokens
+🔤 488,263 Input Tokens, 11,355 Output Tokens
 
-💵 $37.73 Estimated AI Cost This Week
+💵 $4.83 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 90 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-GPT                      891 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      66 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 38,608 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 7.95% of changed lines were hand-edited
+📚 Verbose Prompter — average 46,954 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +161,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 05:33:06 UTC
+ Last Updated on 19/09/2026 05:29:34 UTC
 <!--END_SECTION:waka-->
 
 ---
