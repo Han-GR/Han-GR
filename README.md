@@ -69,9 +69,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 388.0 kB Used in GitHub's Storage 
+> 📦 398.0 kB Used in GitHub's Storage 
  > 
-> 🏆 865 Contributions in the Year 2026
+> 🏆 866 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,20 +83,20 @@
 
 ```text
 🌞 Morning                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-🌆 Daytime                844 commits         ███████████░░░░░░░░░░░░░░   44.89 % 
-🌃 Evening                752 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌆 Daytime                844 commits         ███████████░░░░░░░░░░░░░░   44.87 % 
+🌃 Evening                753 commits         ██████████░░░░░░░░░░░░░░░   40.03 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   277 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Tuesday                  210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Wednesday                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Thursday                 329 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Friday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Saturday                 284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Sunday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Tuesday                  210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Wednesday                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Thursday                 330 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Sunday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
 
 
@@ -106,32 +106,53 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Python                   43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+JSON                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+TOML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             2 hrs 52 mins       ████████████████████░░░░░   81.21 % 
+PyCharm                  39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+argus-workhub-ai         3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 14 mins (91.61%)
+
+✍️ 0 lines written by AI, 55 lines written by hand (0.0% AI-written)
+
+🔤 739,205 Input Tokens, 127,434 Output Tokens
+
+💵 $9.38 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 33 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 296 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Swift                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Swift                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -141,7 +162,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 07:57:46 UTC
+ Last Updated on 13/11/2026 07:36:12 UTC
 <!--END_SECTION:waka-->
 
 ---
