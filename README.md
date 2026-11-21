@@ -106,45 +106,44 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Text                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Other                    1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+YAML                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 56 mins       ██████████████████████░░░   86.64 % 
-PyCharm                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Codex Vscode             5 hrs 44 mins       ███████████████████████░░   91.47 % 
+PyCharm                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🐱‍💻 Projects: 
-argus-workhub-ai         11 hrs 11 mins      ████████████████████████░   97.56 % 
-Voyager-AI               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+argus-workhub-ai         5 hrs 59 mins       ████████████████████████░   95.54 % 
+Voyager-AI               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 💻 Operating System: 
-Mac                      11 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 13 mins (97.79%)
+⏱ AI Coding Time: 6 hrs 10 mins (98.58%)
 
-✍️ 2,177 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 1,112 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,161,199 Input Tokens, 619,282 Output Tokens
+🔤 3,257,549 Input Tokens, 292,348 Output Tokens
 
-💵 $39.27 Estimated AI Cost This Week
+💵 $24.30 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 140 AI Prompts
+🧠 8 AI Sessions, 90 AI Prompts
 
-GPT                      2,178 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,112 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.59% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +163,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 08:03:47 UTC
+ Last Updated on 21/11/2026 07:58:36 UTC
 <!--END_SECTION:waka-->
 
 ---
