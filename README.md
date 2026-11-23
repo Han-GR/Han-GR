@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 401.2 kB Used in GitHub's Storage 
+> 📦 404.0 kB Used in GitHub's Storage 
  > 
 > 🏆 883 Contributions in the Year 2026
  > 
@@ -106,41 +106,38 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     24 mins             ███████████████░░░░░░░░░░   61.41 % 
-Other                    15 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     6 mins              ███████████████░░░░░░░░░░   60.87 % 
+Other                    4 mins              ██████████░░░░░░░░░░░░░░░   39.13 % 
 
 🔥 Editors: 
-Codex Vscode             37 mins             ████████████████████████░   95.04 % 
-PyCharm                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Codex Vscode             10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-argus-workhub-ai         39 mins             █████████████████████████   100.00 % 
+argus-workhub-ai         10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (100.0%)
+⏱ AI Coding Time: 10 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,210,021 Input Tokens, 19,039 Output Tokens
+🔤 420,536 Input Tokens, 3,918 Output Tokens
 
-💵 $4.67 Estimated AI Cost This Week
+💵 $1.47 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -161,7 +158,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 07:45:36 UTC
+ Last Updated on 23/11/2026 08:34:33 UTC
 <!--END_SECTION:waka-->
 
 ---
