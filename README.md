@@ -106,38 +106,38 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     6 mins              ███████████████░░░░░░░░░░   60.87 % 
-Other                    4 mins              ██████████░░░░░░░░░░░░░░░   39.13 % 
+JSON                     6 mins              ███████████████████████░░   91.58 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🔥 Editors: 
-Codex Vscode             10 mins             █████████████████████████   100.00 % 
+Codex Vscode             7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-argus-workhub-ai         10 mins             █████████████████████████   100.00 % 
+argus-workhub-ai         7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (100.0%)
+⏱ AI Coding Time: 7 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 420,536 Input Tokens, 3,918 Output Tokens
+🔤 416,820 Input Tokens, 1,869 Output Tokens
 
-💵 $1.47 Estimated AI Cost This Week
+💵 $1.24 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 18 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -158,7 +158,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Han-GR/Han-GR/master/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2026 08:34:33 UTC
+ Last Updated on 24/11/2026 10:40:42 UTC
 <!--END_SECTION:waka-->
 
 ---
